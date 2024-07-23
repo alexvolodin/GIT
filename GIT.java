@@ -7,6 +7,6 @@ public class GIT {
 
         System.out.println("Update1");
 
-        System.out.println("NEW UPDATE");
+        System.out.println("ONE MORE UPDATE");
     }
 }
